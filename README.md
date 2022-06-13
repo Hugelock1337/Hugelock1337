@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/guard](https://discord.gg/guard)
 
-- 📫 How to reach me **yosef#3577**
+- 📫 How to reach me **lint#7553**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
